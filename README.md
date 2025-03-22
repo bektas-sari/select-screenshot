@@ -64,7 +64,7 @@ quick-screenshot/
 
 ## ✉ Feedback & Contributions
 If you'd like to contribute or report a bug, feel free to open an issue or submit a pull request.
-
+Mail: bektas.sari@@gmail.com
 ---
 
 ## ✨ License
