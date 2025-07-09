@@ -65,6 +65,19 @@ quick-screenshot/
 ## ✉ Feedback & Contributions
 If you'd like to contribute or report a bug, feel free to open an issue or submit a pull request.
 Mail: bektas.sari@@gmail.com
+
+---
+
+## 👤 Developer
+
+**Bektas Sari**  
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
+
 ---
 
 ## ✨ License
